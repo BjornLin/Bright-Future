@@ -52,5 +52,10 @@ hr {
 .btn-primary:hover {
   background-color: #d6a9ac;
   border-color: #d6a9ac;
-  border-width: 2px;
+  border-width: 0px;
+}
+.btn.primary:active{
+  background-color: #d6b3ac;
+  border-color: #d6b3ac;
+  border-width: 0px;
 }
